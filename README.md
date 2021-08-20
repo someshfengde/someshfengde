@@ -55,7 +55,7 @@ __Machine Learning/Deep Learning__ \
 
 ## ⚙️ &nbsp;GitHub Analytics;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=someshfengde&label=Profile%20views&color=0e75b6&style=flat" alt="someshfengde" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=someshfengde&label=Profile%20views&color=brightgreen&style=flat-square" alt="someshfengde" /> </p>
 
 
 <p align="center">
