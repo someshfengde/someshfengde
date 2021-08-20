@@ -54,6 +54,10 @@ __Machine Learning/Deep Learning__ \
 
 
 ## ⚙️ &nbsp;GitHub Analytics;
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=someshfengde&label=Profile%20views&color=0e75b6&style=flat" alt="someshfengde" /> </p>
+
+
 <p align="center">
 <a href="https://github.com/someshfengde">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=someshfengde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
