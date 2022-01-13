@@ -5,7 +5,7 @@
 
 ### :octocat:: &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions and.\
+💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp;I'm currently studying Computer Science(3rd year) .\
 🌱 &nbsp;I'm on track for learning more about Computer Vision,NLP.\
 ✍️ &nbsp;In my free time, I participate on machine learning/deep learning competitions on kaggle .\
@@ -17,9 +17,7 @@
 ### 🔭 &nbsp;I’m currently working on:
   * Computer Vision Project
   * kaggle competitions
-  * Fast AI 
-  * GRE Prepration 
-  * A.I Professional Certification
+  * Engg exams 
 
 
 ### 🛠 &nbsp;Tech Stack
