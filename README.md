@@ -19,6 +19,8 @@
   * kaggle competitions
   * Engg exams 
 
+![My activity graph](https://activity-graph.herokuapp.com/graph?username=someshfengde&theme=github&custom_title=My%20activity%20graph)
+
 
 ### 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
