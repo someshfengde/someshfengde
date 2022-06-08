@@ -2,11 +2,12 @@
 
 ## Hey there! :wave: I'm Som
 
-
+### 👨‍🎓 My portfolio website:
+ https://somesh.gitbook.io/somesh-fengade/
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
-🎓 &nbsp;I'm currently studying Computer Science(3rd year) .\
+🎓 &nbsp;I'm currently studying Computer Science(3rd year completed now I'm in 4th!) .\
 🌱 &nbsp;I'm on track for learning more about Computer Vision,NLP.\
 ✍️ &nbsp;In my free time, I participate on machine learning/deep learning competitions on kaggle .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
