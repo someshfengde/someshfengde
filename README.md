@@ -21,6 +21,9 @@
   * Engg exams 
 
 ![My activity graph](https://activity-graph.herokuapp.com/graph?username=someshfengde&theme=github&custom_title=My%20activity%20graph)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/somesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="someshfengde" /></a></p><br><br><br>
+
 
 
 ### 🛠 &nbsp;Tech Stack
