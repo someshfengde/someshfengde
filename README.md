@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp;I'm currently studying Computer Science(3rd year completed now I'm in 4th!) .\
-🌱 &nbsp;I'm on track for learning more about Computer Vision,NLP.\
+🌱 &nbsp;I'm on track for learning more about Cloud computing, AWS services and MLOPS applications.\
 ✍️ &nbsp;In my free time, I participate on machine learning/deep learning competitions on kaggle .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at someshfengde@gmail.com! I'll try to respond as soon as I can.
