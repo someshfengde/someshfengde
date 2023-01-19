@@ -4,6 +4,9 @@
 
 ### 👨‍🎓 My portfolio website:
  https://somesh.gitbook.io/somesh-fengade/
+
+[![wakatime](https://wakatime.com/badge/user/ba111d76-75c8-4682-8a0c-716b94b530b5.svg)](https://wakatime.com/@ba111d76-75c8-4682-8a0c-716b94b530b5)
+
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
