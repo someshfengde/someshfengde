@@ -10,8 +10,7 @@
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
-🎓 &nbsp;I'm currently studying Computer Science(3rd year completed now I'm in 4th!) .\
-🌱 &nbsp;I'm on track for learning more about Cloud computing, AWS services and MLOPS applications.\
+🎓 &nbsp; Computer science Engineer.\
 ✍️ &nbsp;In my free time, I participate on machine learning/deep learning competitions on kaggle .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at someshfengde@gmail.com! I'll try to respond as soon as I can.
@@ -19,11 +18,11 @@
 
 
 ### 🔭 &nbsp;I’m currently working on:
-  * Computer Vision Project
+  * Generative AI, Pytorch, lightning ⚡️
   * kaggle competitions
-  * Engg exams 
 
-![My activity graph](https://activity-graph.herokuapp.com/graph?username=someshfengde&theme=github&custom_title=My%20activity%20graph)
+
+[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=someshfengde&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/someshfengde)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/somesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="someshfengde" /></a></p><br><br><br>
 
@@ -41,7 +40,7 @@ __Frameworks and libraries__ \
 
 __IDEs/Editors__ \
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
+
 
 __Version Control__ \
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
@@ -52,8 +51,9 @@ __Databases__ \
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 
 __Machine Learning/Deep Learning__ \
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp; 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
 <img alt="FasiAI" src="https://img.shields.io/badge/fast%20ai-framework-blue?style=for-the-badge&logo=appveyor" />&nbsp;
