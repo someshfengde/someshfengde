@@ -16,6 +16,9 @@
 ✉️ &nbsp;You can shoot me an email at someshfengde@gmail.com! I'll try to respond as soon as I can.
 
 
+[![An image of @someshfengde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/someshfengde)](https://holopin.io/@someshfengde)
+
+
 
 ### 🔭 &nbsp;I’m currently working on:
   * Generative AI, Pytorch, lightning ⚡️
