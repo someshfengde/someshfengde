@@ -9,6 +9,8 @@
 
 ### :octocat:: &nbsp;About Me
 
+![](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
+
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp; Computer science Engineer.\
 ✍️ &nbsp;In my free time, I participate on machine learning/deep learning competitions on kaggle .\
