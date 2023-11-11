@@ -8,8 +8,9 @@
 [![wakatime](https://wakatime.com/badge/user/ba111d76-75c8-4682-8a0c-716b94b530b5.svg)](https://wakatime.com/@ba111d76-75c8-4682-8a0c-716b94b530b5)
 
 ### :octocat:: &nbsp;About Me
+[![AWS ML Specialty Badge](https://github.com/someshfengde/someshfengde/assets/42097653/d8f9c3c4-c1ca-4fa2-a02b-4edd9a034cf8)](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
 
-[![AWS_ml_speciality](https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
+
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp; Computer science Engineer.\
