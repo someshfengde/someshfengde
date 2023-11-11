@@ -9,7 +9,7 @@
 
 ### :octocat:: &nbsp;About Me
 
-![](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
+[![AWS_ml_speciality](https://images.credly.com/size/680x680/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/8cb53a05-6b90-402d-bb01-fd9c9e51892c)
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp; Computer science Engineer.\
