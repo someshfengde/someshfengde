@@ -20,7 +20,7 @@ jobs:
           SHOW_TITLE: true # optional
           CODE_LANG: python # optional
           TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 3 # optional
+          LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
