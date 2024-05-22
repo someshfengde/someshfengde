@@ -1,6 +1,15 @@
 ## Hey there! :wave: I'm Som
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       28 hrs 6 mins   ███████████████████▓░░░░░   78.72 %
+JavaScript   2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Other        1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+SQL          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+```
+
 <!--END_SECTION:waka-->
 
 
