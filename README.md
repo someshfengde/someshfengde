@@ -2,12 +2,14 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
+From: 14 May 2024 - To: 21 May 2024
+
+Total Time: 33 hrs 52 mins
+
 Python       28 hrs 6 mins   ███████████████████▓░░░░░   78.72 %
 JavaScript   2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 Other        1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Bash         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-SQL          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
