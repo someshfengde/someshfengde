@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 May 2024 - To: 25 May 2024
+From: 19 May 2024 - To: 26 May 2024
 
-Total Time: 31 hrs 27 mins
+Total Time: 29 hrs 36 mins
 
-Python       20 hrs 48 mins  ████████████████▓░░░░░░░░   66.15 %
-JavaScript   5 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-JSON         2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Git Config   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-TypeScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-RPMSpec      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python       19 hrs 7 mins   ████████████████░░░░░░░░░   64.60 %
+JavaScript   5 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+JSON         2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Git Config   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TypeScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Markdown     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+RPMSpec      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
