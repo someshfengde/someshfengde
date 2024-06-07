@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 May 2024 - To: 04 June 2024
+From: 29 May 2024 - To: 05 June 2024
 
-Total Time: 41 hrs 7 mins
+Total Time: 36 hrs 44 mins
 
-Python        28 hrs 2 mins   █████████████████░░░░░░░░   68.02 %
-JavaScript    5 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-CSS           2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Text          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-TypeScript    1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Markdown      1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-HTML          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python        23 hrs 42 mins  ████████████████░░░░░░░░░   64.36 %
+JavaScript    5 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+CSS           2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Text          1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Markdown      1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TypeScript    1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+HTML          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
