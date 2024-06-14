@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 36 hrs 32 mins
+Total Time: 37 hrs 42 mins
 
-Python        17 hrs 49 mins  ████████████░░░░░░░░░░░░░   48.65 %
-JavaScript    7 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-TypeScript    4 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-Bash          2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-CSS           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Text          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Docker        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Python        17 hrs 39 mins  ███████████▓░░░░░░░░░░░░░   46.76 %
+JavaScript    8 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+TypeScript    4 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Bash          2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+CSS           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Text          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Docker        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
