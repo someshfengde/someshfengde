@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 June 2024 - To: 16 June 2024
+From: 10 June 2024 - To: 17 June 2024
 
-Total Time: 30 hrs 51 mins
+Total Time: 22 hrs 15 mins
 
-JavaScript    9 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   31.81 %
-Python        9 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-TypeScript    4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Bash          2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-SQL           1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JSON          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Text          32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python        8 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.58 %
+JavaScript    5 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+TypeScript    4 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+SQL           1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Text          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSON          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+CSV           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
