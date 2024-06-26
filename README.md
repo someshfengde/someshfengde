@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Total Time: 18 hrs 26 mins
+Total Time: 29 hrs 21 mins
 
-Rust         7 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.11 %
-Python       5 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-YAML         3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-JavaScript   1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Text         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python       11 hrs 47 mins  ██████████░░░░░░░░░░░░░░░   40.15 %
+Rust         8 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
+YAML         3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+JavaScript   1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TOML         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Text         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Git Config   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
