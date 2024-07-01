@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 June 2024 - To: 28 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Total Time: 40 hrs 38 mins
+Total Time: 40 hrs 40 mins
 
-Python       14 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.23 %
-JavaScript   12 hrs 27 mins  ███████▒░░░░░░░░░░░░░░░░░   29.58 %
-Rust         4 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Python       14 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.19 %
+JavaScript   12 hrs 26 mins  ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Rust         4 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 Docker       1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 JSON         1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 TOML         1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
