@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 July 2024 - To: 10 July 2024
+From: 04 July 2024 - To: 11 July 2024
 
-Total Time: 31 hrs 7 mins
+Total Time: 19 hrs 1 min
 
-Python        24 hrs 32 mins  ███████████████████▓░░░░░   78.68 %
-Docker        1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Markdown      1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-CSV           1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JavaScript    55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Git Config    53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python        16 hrs 41 mins  ██████████████████████░░░   87.43 %
+JavaScript    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Markdown      47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Text          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+YAML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
