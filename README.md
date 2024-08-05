@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 July 2024 - To: 02 August 2024
+From: 27 July 2024 - To: 03 August 2024
 
-Total Time: 7 hrs 40 mins
+Total Time: 13 hrs 58 mins
 
-JavaScript   3 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.08 %
-Python       2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
-Rust         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-JSON         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript    7 hrs 58 mins   ██████████████░░░░░░░░░░░   56.05 %
+Python        2 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+JSON          1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Rust          1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Other         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Text          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
