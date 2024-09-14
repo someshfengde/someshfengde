@@ -4,11 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 August 2024 - To: 06 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Total Time: 0 secs
+Total Time: 7 hrs 13 mins
 
-No activity tracked
+Python       6 hrs 53 mins   ███████████████████████▓░   95.30 %
+CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
