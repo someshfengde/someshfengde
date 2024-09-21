@@ -4,16 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 September 2024 - To: 13 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Total Time: 7 hrs 13 mins
+Total Time: 6 hrs 45 mins
 
-Python       6 hrs 53 mins   ███████████████████████▓░   95.30 %
-CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Docker                     3 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.63 %
+JavaScript                 2 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Python                     39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+TypeScript                 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+YAML                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Nginx                      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
