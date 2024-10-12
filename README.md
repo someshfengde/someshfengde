@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 September 2024 - To: 04 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Total Time: 9 hrs 38 mins
+Total Time: 18 hrs 17 mins
 
-Markdown     4 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.08 %
-Python       2 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-JSON         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-Java         1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-TypeScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-CSV          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Go           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python       7 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Java         3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Other        2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+Docker       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+TypeScript   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown     1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+JavaScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
