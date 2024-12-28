@@ -4,17 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 December 2024 - To: 20 December 2024
+From: 20 December 2024 - To: 27 December 2024
 
-Total Time: 9 hrs 24 mins
+Total Time: 7 hrs 58 mins
 
-Python        8 hrs 25 mins   ██████████████████████▒░░   89.49 %
-TypeScript    28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Bash          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-SCSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Docker        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   5 hrs 31 mins   █████████████████▒░░░░░░░   69.24 %
+Bash     2 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
