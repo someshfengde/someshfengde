@@ -4,11 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 February 2025 - To: 14 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 16 mins
 
-No activity tracked
+Python     2 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.45 %
+Other      2 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.26 %
+Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
