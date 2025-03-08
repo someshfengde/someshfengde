@@ -4,14 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 February 2025 - To: 28 February 2025
+From: 28 February 2025 - To: 07 March 2025
 
-Total Time: 2 mins
+Total Time: 0 secs
 
-Python       1 min           █████████████▒░░░░░░░░░░░   53.40 %
-Markdown     0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Git          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
