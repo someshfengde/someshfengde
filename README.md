@@ -4,11 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 March 2025 - To: 14 March 2025
+From: 14 March 2025 - To: 21 March 2025
 
-Total Time: 0 secs
+Total Time: 25 hrs 44 mins
 
-No activity tracked
+Python       21 hrs 41 mins  █████████████████████░░░░   84.21 %
+Text         2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Bash         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Perl         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
