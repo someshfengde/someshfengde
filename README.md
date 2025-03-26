@@ -47,8 +47,7 @@ SQL          2 mins          ░░░░░░░░░░░░░░░░░
 
 [![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=someshfengde&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/someshfengde)
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/somesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="someshfengde" /></a></p><br><br><br>
-
+<p><a href="https://www.buymeacoffee.com/somesh"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black"  alt="someshfengde" /></a></p><br>
 
 
 ### 🛠 &nbsp;Tech Stack
