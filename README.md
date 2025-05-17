@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 May 2025 - To: 09 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 20 hrs 42 mins
+Total Time: 22 hrs 54 mins
 
-Python       19 hrs 28 mins  ███████████████████████▓░   94.03 %
-HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Docker       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   10 hrs 6 mins   ██████████▒░░░░░░░░░░░░░░   40.78 %
+Python       6 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+Markdown     3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Bash         2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Other        1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
