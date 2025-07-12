@@ -4,16 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 June 2025 - To: 04 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-Total Time: 7 hrs 17 mins
+Total Time: 0 secs
 
-Python       6 hrs 53 mins   ███████████████████████▓░   94.02 %
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
