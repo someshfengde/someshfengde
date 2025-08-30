@@ -4,11 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 August 2025 - To: 22 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 0 secs
+Total Time: 16 hrs 7 mins
 
-No activity tracked
+Python       8 hrs 26 mins   █████████████░░░░░░░░░░░░   52.14 %
+HTML         4 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.83 %
+JavaScript   1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
