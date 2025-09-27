@@ -4,16 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 September 2025 - To: 19 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
-Total Time: 11 hrs 52 mins
+Total Time: 1 hr
 
-Python       9 hrs 42 mins   ████████████████████▒░░░░   81.70 %
-Bash         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-SQL          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-TypeScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
