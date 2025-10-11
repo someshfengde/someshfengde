@@ -4,16 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 September 2025 - To: 03 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Total Time: 4 hrs 28 mins
+Total Time: 11 hrs 12 mins
 
-Python       2 hrs 23 mins   ████████████░░░░░░░░░░░░░   48.40 %
-Bash         1 hr 25 mins    ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-Other        28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Markdown     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Docker       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python       7 hrs 52 mins   █████████████████▓░░░░░░░   70.29 %
+TypeScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Bash         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
