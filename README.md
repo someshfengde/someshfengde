@@ -4,11 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 October 2025 - To: 17 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 0 secs
+Total Time: 4 hrs 48 mins
 
-No activity tracked
+Python       4 hrs 48 mins   █████████████████████████   99.76 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
