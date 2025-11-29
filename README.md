@@ -4,13 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 November 2025 - To: 21 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 3 hrs 26 mins
 
-Python     54 mins         ███████████▓░░░░░░░░░░░░░   46.34 %
-Markdown   45 mins         █████████▓░░░░░░░░░░░░░░░   38.94 %
-SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text         1 hr 55 mins    ██████████████░░░░░░░░░░░   55.67 %
+Python       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+SQL          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
