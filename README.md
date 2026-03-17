@@ -1,5 +1,9 @@
 ## Hey there! :wave: I'm Som
 
+<p align="center">
+  <img height="500" src="./profile-3d.svg" />
+</p>
+
 [![wakatime](https://wakatime.com/badge/user/ba111d76-75c8-4682-8a0c-716b94b530b5.svg)](https://wakatime.com/@ba111d76-75c8-4682-8a0c-716b94b530b5)
 <!--START_SECTION:waka-->
 
@@ -76,16 +80,16 @@ __Machine Learning/Deep Learning__ \
 <img alt="FasiAI" src="https://img.shields.io/badge/fast%20ai-framework-blue?style=for-the-badge&logo=appveyor" />&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics;
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someshfengde&label=Profile%20views&color=brightgreen&style=flat-square" alt="someshfengde" /> </p>
 
-
 <p align="center">
-<a href="https://github.com/someshfengde">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=someshfengde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=someshfengde&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=someshfengde&count_private=true&include_all_commits=true&show_icons=true&theme=default&custom_title=someshfengde's%20GitHub%20stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshfengde&theme=default&show_icons=true&layout=compact&langs_count=8" />
 </p>
- 
+
+[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=someshfengde&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/someshfengde)
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dqwa162yl5&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
