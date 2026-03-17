@@ -89,7 +89,5 @@ __Machine Learning/Deep Learning__ \
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshfengde&theme=default&show_icons=true&layout=compact&langs_count=8" />
 </p>
 
-[![Somesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=someshfengde&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/someshfengde)
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dqwa162yl5&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
