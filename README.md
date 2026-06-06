@@ -8,11 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 May 2026 - To: 29 May 2026
+From: 29 May 2026 - To: 05 June 2026
 
-Total Time: 0 secs
+Total Time: 6 hrs 34 mins
 
-No activity tracked
+Python       2 hrs 48 mins         ██████████▓░░░░░░░░░░░░░░   42.61 %
+Markdown     59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+JavaScript   57 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+CSS          16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+HTML         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
